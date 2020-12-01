@@ -2,7 +2,7 @@ body {
   font-family: "Titillium Web", sans-serif;
   font-size: 16px;
   line-height: 1;
-  background-image: url("../images/scene.jpeg");
+  background-image: url("images/scene.jpeg");
   background-size: cover;
 }
 textarea {
